@@ -1,25 +1,24 @@
-# [Notch](https://www.notch.one/) with Data in TD
+# [Notch](https://www.notch.one/) with Data in [TouchDesigner](https://derivative.ca/download)
 
-A simple example for use Notch inside Touchdesigner with Tuio protocol and Augmenta.
-
+A simple example for use [Notch](https://www.notch.one/) inside [TouchDesigner](https://derivative.ca/download) with [TUIO protocol](https://www.tuio.org/?developer) and Augmenta. Feature created by [THEORIZ Studio](https://www.theoriz.com/fr/bienvenue/).
 
 ![Notch](https://user-images.githubusercontent.com/64955193/138240148-88059a8d-7a11-4e27-8644-0a5f42511c0c.PNG)
 
 
 ## Features
 
-Notch 
+[Notch](https://www.notch.one/)
 - Notch simple exemple (dfx)
 - simple exemple for Media Server (dfxdll)
 
 
-Touchdesigner 
-- Augmenta setup with TUIO protocol and Notch ready.
+[TouchDesigner](https://derivative.ca/download)
+- Augmenta setup with TUIO protocol and [Notch](https://www.notch.one/) ready.
 
 ## Use
 
 
-### in Notch
+### in [Notch](https://www.notch.one/)
 
 - Export your project for Media Server or use the dfxdll file in this repo Github.
 
@@ -31,7 +30,7 @@ Touchdesigner
 _/!\ (The simulator is not yet supporting TUIO as output, so we will use Fusion for now._
 
 - Set up your scene in Fusion
-- Make TUIO output with TouchDesigner preset
+- Make TUIO output with [TouchDesigner](https://derivative.ca/download) preset
 
 ![Fusion](https://user-images.githubusercontent.com/64955193/138240856-ab3e2cb5-39bf-42f9-9cd4-f325b18148af.PNG)
 
@@ -39,7 +38,7 @@ _/!\ (The simulator is not yet supporting TUIO as output, so we will use Fusion 
 
 
 
-### in Touchdesigner
+### in [TouchDesigner](https://derivative.ca/download)
 - Open TouchDesigner example
 - Indicate the path to the Notch block
 
@@ -50,3 +49,15 @@ _/!\ (The simulator is not yet supporting TUIO as output, so we will use Fusion 
 ## Require
 - [TouchDesigner](https://derivative.ca/download) COMMERCIAL license
 - [Notch](https://www.notch.one/) Builder License
+
+
+## Documentation
+- Notch with Augmenta
+https://github.com/Augmenta-tech/Augmenta-notch-example
+
+- Augmenta Wiki
+https://github.com/Augmenta-tech/Augmenta/wiki
+
+
+
+
