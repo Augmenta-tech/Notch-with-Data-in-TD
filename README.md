@@ -1,6 +1,6 @@
 # [Notch](https://www.notch.one/) with Data in TD
 
-A simple example for use Notch inside Touchdesigner with Tuio protocol and Augmenta 
+A simple example for use Notch inside Touchdesigner with Tuio protocol and Augmenta.
 
 
 ![Notch](https://user-images.githubusercontent.com/64955193/138240148-88059a8d-7a11-4e27-8644-0a5f42511c0c.PNG)
@@ -14,15 +14,14 @@ Notch
 
 
 Touchdesigner 
-- Augmenta setup with TUIO protocol
-- Notch Block 
+- Augmenta setup with TUIO protocol and Notch ready.
 
 ## Use
 
 
 ### in Notch
 
-- Export your project for Media Server or use the dfxdll file in this repo Github
+- Export your project for Media Server or use the dfxdll file in this repo Github.
 
 ![Capture](https://user-images.githubusercontent.com/64955193/138241337-0228d2dc-1a87-4b60-a9a9-23b6dff61613.PNG)
 
