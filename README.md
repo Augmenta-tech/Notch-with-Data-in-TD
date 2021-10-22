@@ -4,6 +4,10 @@ A simple example for use [Notch](https://www.notch.one/) inside [TouchDesigner](
 
 ![Notch](https://user-images.githubusercontent.com/64955193/138240148-88059a8d-7a11-4e27-8644-0a5f42511c0c.PNG)
 
+## Youtube Tutorial
+
+https://www.youtube.com/watch?v=ZgbljA4bN-8&t=58s
+
 
 ## Features
 
