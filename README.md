@@ -31,7 +31,7 @@ https://www.youtube.com/watch?v=ZgbljA4bN-8&t=58s
 
 ### in Fusion
 
-_/!\ (The simulator is not yet supporting TUIO as output, so we will use Fusion for now._
+_/!\ (The simulator is not yet supporting TUIO as output, so we will use Fusion for now.)_
 
 - Set up your scene in Fusion
 - Make TUIO output with [TouchDesigner](https://derivative.ca/download) preset
