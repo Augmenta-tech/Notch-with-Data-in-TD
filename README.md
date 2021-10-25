@@ -1,6 +1,6 @@
 # [Notch](https://www.notch.one/) with TUIO/OSC Data inside [TouchDesigner](https://derivative.ca/download)
 
-A simple example to use [Notch](https://www.notch.one/) inside [TouchDesigner](https://derivative.ca/download) with [TUIO protocol](https://www.tuio.org/?developer) and Augmenta. Example created by [THEORIZ Studio](https://www.theoriz.com/fr/bienvenue/).
+A simple example to use [Notch](https://www.notch.one/) inside [TouchDesigner](https://derivative.ca/download) with [TUIO protocol](https://www.tuio.org/?developer) and [Augmenta](https://www.augmenta-tech.com). Example created by [THEORIZ Studio](https://www.theoriz.com/fr/bienvenue/).
 
 ![Notch](https://user-images.githubusercontent.com/64955193/138240148-88059a8d-7a11-4e27-8644-0a5f42511c0c.PNG)
 
