@@ -6,7 +6,7 @@ A simple example to use [Notch](https://www.notch.one/) inside [TouchDesigner](h
 
 ## Youtube Tutorial
 
-https://www.youtube.com/watch?v=ZgbljA4bN-8&t=58s
+https://youtu.be/SuFydPuyIlI
 
 
 ## Features
