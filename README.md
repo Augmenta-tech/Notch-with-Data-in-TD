@@ -1,6 +1,6 @@
 # [Notch](https://www.notch.one/) with TUIO/OSC Data inside [TouchDesigner](https://derivative.ca/download)
 
-A simple example to use [Notch](https://www.notch.one/) inside [TouchDesigner](https://derivative.ca/download) with [TUIO protocol](https://www.tuio.org/?developer) and [Augmenta](https://www.augmenta-tech.com). Example created by [THEORIZ Studio](https://www.theoriz.com/fr/bienvenue/).
+A simple example to use [Notch](https://www.notch.one/) inside [TouchDesigner](https://derivative.ca/download) with [TUIO protocol](https://www.tuio.org/?developer) and [Augmenta](https://www.augmenta.tech). Example created by [THEORIZ Studio](https://www.theoriz.com/fr/bienvenue/).
 
 ![Notch](https://user-images.githubusercontent.com/64955193/138240148-88059a8d-7a11-4e27-8644-0a5f42511c0c.PNG)
 
@@ -15,7 +15,6 @@ https://youtu.be/SuFydPuyIlI
 - Notch simple example (dfx)
 - simple example for Media Server (dfxdll)
 
-
 [TouchDesigner](https://derivative.ca/download)
 - Augmenta setup with TUIO protocol and [Notch](https://www.notch.one/).
 
@@ -29,7 +28,7 @@ https://youtu.be/SuFydPuyIlI
 ![Capture](https://user-images.githubusercontent.com/64955193/138241337-0228d2dc-1a87-4b60-a9a9-23b6dff61613.PNG)
 
 
-### in The simulator
+### in Augmenta simulator
 
 - Set up your scene size
 - Send your data with TUIO with the preset "Notch"
