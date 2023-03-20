@@ -28,7 +28,7 @@ https://youtu.be/SuFydPuyIlI
 ![Capture](https://user-images.githubusercontent.com/64955193/138241337-0228d2dc-1a87-4b60-a9a9-23b6dff61613.PNG)
 
 
-### in Augmenta simulator
+### in [Augmenta simulator](https://www.augmenta.tech/downloads)
 
 - Set up your scene size
 - Send your data with TUIO with the preset "Notch"
