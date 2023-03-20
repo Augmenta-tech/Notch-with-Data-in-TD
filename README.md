@@ -29,16 +29,12 @@ https://youtu.be/SuFydPuyIlI
 ![Capture](https://user-images.githubusercontent.com/64955193/138241337-0228d2dc-1a87-4b60-a9a9-23b6dff61613.PNG)
 
 
-### in Fusion
+### in The simulator
 
-_/!\ (The simulator is not yet supporting TUIO as output, so we will use Fusion for now.)_
+- Set up your scene size
+- Send your data with TUIO with the preset "Notch"
 
-- Set up your scene in Fusion
-- Make a TUIO output and use the [TouchDesigner](https://derivative.ca/download) preset
-
-![Fusion](https://user-images.githubusercontent.com/64955193/138240856-ab3e2cb5-39bf-42f9-9cd4-f325b18148af.PNG)
-
-
+![Augmenta-simulator](https://user-images.githubusercontent.com/5172593/226405598-7609c3ca-8580-4a41-8b8c-7cefcb939291.png)
 
 
 
